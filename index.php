@@ -56,7 +56,7 @@
     <div class="row">
         <div class="col-lg-3 col-md-6 col-12">
             <div class="card">
-                <img src="assets/images/path-g67c4534af_640.jpg" class="card-img-top" alt="...">
+                <img src="assets/images/forest.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Visit this forest</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -67,9 +67,9 @@
 
         <div class="col-lg-3 col-md-6 col-12">
             <div class="card">
-                <img src="assets/images/pink-g08ba835ba_640.jpg" class="card-img-top" alt="...">
+                <img src="assets/images/cascade.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">See this flowers</h5>
+                    <h5 class="card-title">See water in flowers</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     <a href="#" class="col-12 btn btn-primary">Go somewhere</a>
                 </div>
@@ -78,9 +78,9 @@
 
         <div class="col-lg-3 col-md-6 col-12">
             <div class="card">
-                <img src="assets/images/tree-g21238cdf1_640.jpg" class="card-img-top" alt="...">
+                <img src="assets/images/mountain.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Night and tree</h5>
+                    <h5 class="card-title">Quiet time</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     <a href="#" class="col-12 btn btn-primary">Go somewhere</a>
                 </div>
@@ -89,9 +89,9 @@
 
         <div class="col-lg-3 col-md-6 col-12 ">
             <div class="card">
-                <img src="assets/images/tree-gb5823c1a5_640.jpg" class="card-img-top" alt="...">
+                <img src="assets/images/river.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Tree and clouds</h5>
+                    <h5 class="card-title">River  and sun</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     <a href="#" class="col-12 btn btn-primary">Go somewhere</a>
                 </div>
